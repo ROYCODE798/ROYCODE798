@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ROYCODE798
 
-- 🌱 I’m currently learning Cyber Security
+- 🌱 I’m currently learning Cyber Security with AI
 
 
 
