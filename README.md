@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Quantum Computing<br>👯 I’m looking to collaborate on Research<br>🤝 I’m looking for help with PCB Design<br>🌱 I’m currently learning Hardware development<br>💬 Ask me about New Techs<br>⚡ Fun fact "I can be boring if you're not intellectual enough"
 
 
 # 💻 Tech Stack:
